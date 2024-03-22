@@ -12,7 +12,7 @@
         $count = 0;
         foreach ($arr as $innerArr) {
             foreach ($innerArr as $num) {
-                if ($num === 7) {
+                if ($num === 1) {
                     $count++;
                 }
             }
